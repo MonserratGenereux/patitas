@@ -90,8 +90,8 @@ La realización de las actividades anteriores pretenden ser logradas en un plazo
 
 En nuestro proyecto hay una inversión inicial de $304,600.00 USD que son para pagar el primer año del equipo de desarrollo de las aplicaciones, equipo de logística y mercadotecnia así como locación y renta de camionetas. Se estima que en el primer año se obtendrá un ingreso de $324000 USD, en el segundo año uno de $328000 USD, en el tercero uno de $333000 USD y en el cuarto uno de $340000 USD. Esto basado en el dinero obtenido mediante el porcentaje cobrado por cada servicio al número de instituciones que están afiliadas a nuestra aplicación, contando al principio sólo la Zona Metropolitana de Guadalajara y después el resto del país teniendo un promedio de 20 instituciones en cada estado. Con estos datos el NPV nos arroja que en el tercer año sería cuando empezariamos generar ganancias.
 
-- [Aquí](Patitas_investment.png) se puede observar una tabla con los datos de la inversión inicial.
-- [Aquí](Patitas_NPV.png) se pueden observar los ingresos y egresos de la empresa por los próximos 4 años.
+- [Aquí](patitas/Atachments/Patitas_Gantt.png) se puede observar una tabla con los datos de la inversión inicial.
+- [Aquí](patitas/Atachments/Patitas_NPV.png) se pueden observar los ingresos y egresos de la empresa por los próximos 4 años.
 
 ### Mockups
 
