@@ -90,15 +90,15 @@ La realización de las actividades anteriores pretenden ser logradas en un plazo
 
 En nuestro proyecto hay una inversión inicial de $304,600.00 USD que son para pagar el primer año del equipo de desarrollo de las aplicaciones, equipo de logística y mercadotecnia así como locación y renta de camionetas. Se estima que en el primer año se obtendrá un ingreso de $324000 USD, en el segundo año uno de $328000 USD, en el tercero uno de $333000 USD y en el cuarto uno de $340000 USD. Esto basado en el dinero obtenido mediante el porcentaje cobrado por cada servicio al número de instituciones que están afiliadas a nuestra aplicación, contando al principio sólo la Zona Metropolitana de Guadalajara y después el resto del país teniendo un promedio de 20 instituciones en cada estado. Con estos datos el NPV nos arroja que en el tercer año sería cuando empezariamos generar ganancias.
 
-- [Aquí](https://github.com/MonserratGenereux/patitas/blob/master/Atachments/Patitas_Gantt.png) se puede observar una tabla con los datos de la inversión inicial.
-- [Aquí](patitas/Atachments/Patitas_NPV.png) se pueden observar los ingresos y egresos de la empresa por los próximos 4 años.
+- [Aquí](https://github.com/MonserratGenereux/patitas/blob/master/Atachments/Patitas_Investment.png) se puede observar una tabla con los datos de la inversión inicial.
+- [Aquí](https://github.com/MonserratGenereux/patitas/blob/master/Atachments/Patitas_NPV.png) se pueden observar los ingresos y egresos de la empresa por los próximos 4 años.
 
 ### Mockups
 
 - [Mockup de la Aplicación para el usuario final](https://mockingbot.com/app/e80e33123e23759c225684e5af82123e4fcc98c3)
 
-- [Mockup 1 de la Aplicación para la veterinaria](Atachments/Patitas_vetMkup_1.png)
-- [Mockup 2 de la Aplicación para la veterinaria](Atachments/Patitas_vetMkup_2.png)
+- [Mockup 1 de la Aplicación para la veterinaria](https://github.com/MonserratGenereux/patitas/blob/master/Atachments/Patitas_VetMkup_1.png)
+- [Mockup 2 de la Aplicación para la veterinaria](https://github.com/MonserratGenereux/patitas/blob/master/Atachments/Patitas_VetMkup_2.png)
 
 - [Mockup de la Aplicación para el "cuidador"](https://mockingbot.com/app/HlFX4W4pWixjiIHyAkJNt8b3jXMG9iB)
 
@@ -117,7 +117,7 @@ Sin embargo, el backend será desarrollado utilizando las mismas tecnologías pa
 
 La base de datos será provista por MongoDB y además se cuenta con un servicio de autenticación auth0.
 
-- [Aquí](Atachments/Patitas_SoftArq.png) se puede observar un diagrama describiendo la arquitectura del software utilizada en Patitas.
+- [Aquí](https://github.com/MonserratGenereux/patitas/blob/master/Atachments/Patitas_SoftArq.png) se puede observar un diagrama describiendo la arquitectura del software utilizada en Patitas.
 
 #### Modelos:
 
