@@ -72,7 +72,7 @@ La promoción de nuestra aplicación móvil consistirá principalmente en public
 
 Para lograr los convenios con las veterinarias, iremos a ofrecer nuestro servicio directamente con ellas para que acepten estar anunciadas en nuestra aplicación y decidan compartir las ganancias de sus servicios con nosotros. Se pretende que lleguemos a nuestro mercado meta mediante promoción de boca en boca gracias al buen servicio brindado por "Patitas" a nuestros clientes.
 
-### GANTT
+### Gantt
 
 Para poder llevar a cabo este negocio, se necesita de la ejecución de las siguientes actividades:
 
